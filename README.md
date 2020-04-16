@@ -1,2 +1,3 @@
 # CS13012
-just another repository
+
+Code examples to be used in the CS13012 course I teach at Kent State
